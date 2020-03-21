@@ -1,0 +1,57 @@
+C:\Users\Robertenglish\AppData\Local\Temporary Projects\sim\bin\Debug\sim.exe
+C:\Users\Robertenglish\AppData\Local\Temporary Projects\sim\bin\Debug\sim.pdb
+C:\Users\Robertenglish\AppData\Local\Temporary Projects\sim\obj\x86\Debug\sim.Form1.resources
+C:\Users\Robertenglish\AppData\Local\Temporary Projects\sim\obj\x86\Debug\sim.Properties.Resources.resources
+C:\Users\Robertenglish\AppData\Local\Temporary Projects\sim\obj\x86\Debug\sim.csproj.GenerateResource.Cache
+C:\Users\Robertenglish\AppData\Local\Temporary Projects\sim\obj\x86\Debug\sim.exe
+C:\Users\Robertenglish\AppData\Local\Temporary Projects\sim\obj\x86\Debug\sim.pdb
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.exe
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.pdb
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\bin\Debug\sim.exe
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\bin\Debug\sim.pdb
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.Form1.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.Properties.Resources.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.csproj.GenerateResource.Cache
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.csprojResolveAssemblyReference.cache
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.Form2.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.appliance.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.cellphone.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.computer.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.television.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.Form3.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.Form4.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.Form5.resources
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\sim.csproj.ResolveComReference.cache
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\bin\Debug\Interop.WMPLib.dll
+C:\Users\Robertenglish\Documents\CP 2\sim\sim\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.csproj.ResolveComReference.cache
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.exe
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.pdb
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\bin\Debug\sim.exe
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\bin\Debug\sim.pdb
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\bin\Debug\Interop.WMPLib.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.csprojResolveAssemblyReference.cache
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.appliance.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.cellphone.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.computer.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.Form1.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.Form2.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.Form3.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.Form4.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.Form5.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.Properties.Resources.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.television.resources
+C:\Users\Robertenglish\Documents\10th Grade\CP 2\sim\sim\obj\x86\Debug\sim.csproj.GenerateResource.Cache
