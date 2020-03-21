@@ -6,5 +6,5 @@ Download all contents of this repository, then run sim.sln. This should prompt v
 Also I have created a video on my YouTube channel, with a full demo of the entire program: http://youtube.com/watch?v=FJiHjdOJCu4&t=5s
 
 # Picture Of A Form
-![](screenshot.png)
+![](screenshot.PNG)
 
