@@ -9,9 +9,8 @@ using System.Windows.Forms;
 
 namespace sim
 {
-    /* Ali Ahmad, Mustafa Al-Khawaja, Aidan Camilleri, Robert English, Deenah Hamdan
+    /* Ali Ahmad
      * 11/18/18
-     * Period 2 (GLP)
      */
     public partial class Form1 : Form
     {
