@@ -1,4 +1,4 @@
-# Electronic Waste Sim
+# Electronic Waste Simulation
 During my sophomore year of high school, we were tasked to come up with a process of recycling (I chose electronic), and then create a simulation in c# to demo all aspects of it. Click [here](http://youtube.com/watch?v=FJiHjdOJCu4&t=5s) to view the full demo of the simulation on YouTube or click down below. 
 
 http://youtube.com/watch?v=FJiHjdOJCu4&t=5s
