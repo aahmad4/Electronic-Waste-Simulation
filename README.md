@@ -1,21 +1,29 @@
-# Electronic Waste Simulation
-During my sophomore year of high school, we were tasked to come up with a process of recycling (I chose electronic), and then create a simulation in c# to demo all aspects of it. Click [here](http://youtube.com/watch?v=FJiHjdOJCu4&t=5s) to view the full demo of the simulation on YouTube or click down below. 
+<h1 align="center">Electronic Waste Simulator</h1> 
 
-http://youtube.com/watch?v=FJiHjdOJCu4&t=5s
+<p align="center">
+An interactive simulation of the electronic waste recycling process coded in C#. Completed as part of the computer science aspect of my sophomore year grade level project.
+</p>
 
-## Clone
+<p align="center">
+A link to an online demo version can be found here: <a href="http://youtube.com/watch?v=FJiHjdOJCu4&t=5s" target="_blank">youtube.com/watch?v=FJiHjdOJCu4&t=5s</a>
+</p>
+
+## Picture Of A Form
+
+![](screenshot.PNG)
+
+## Setup
+
+#### Clone
 ```bash
 git clone https://github.com/aahmad4/Electronic-Waste-Simulation
 ```
 
-## Usage
+#### Usage
 One you open this file, click the green run button at the top.
 ```bash
 sim.sln
 ```
-## Picture Of A Form
-
-![](screenshot.PNG)
 
 ## Contributing
 
