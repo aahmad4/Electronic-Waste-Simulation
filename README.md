@@ -5,7 +5,7 @@ An interactive simulation of the electronic waste recycling process coded in C#.
 </p>
 
 <p align="center">
-A link to an online demo version can be found here: <a href="http://youtube.com/watch?v=FJiHjdOJCu4&t=5s" target="_blank">youtube.com/watch?v=FJiHjdOJCu4&t=5s</a>
+A link to an online demo version can be found here: <a href="https://youtube.com/watch?v=FJiHjdOJCu4&t=5s" target="_blank">youtube.com/watch?v=FJiHjdOJCu4&t=5s</a>
 </p>
 
 ## Picture Of A Form
