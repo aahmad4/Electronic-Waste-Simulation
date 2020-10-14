@@ -20,6 +20,9 @@ git clone https://github.com/aahmad4/Electronic-Waste-Simulation
 ```
 
 #### Usage
+```
+cd Electronic-Waste-Simulator
+```
 One you open this file, click the green run button at the top.
 ```bash
 sim.sln
